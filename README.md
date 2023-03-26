@@ -23,7 +23,7 @@ Your app is ready to be deployed!
 
 Clone and setup the repository to your local machine using the following command:
 
-    - git clone https://github.com/utk145/React-IMDB-Clone-easy.git
+    - git clone https://github.com/utk145/My-Notes-App-using-React
     - npm install --legacy-peer-deps
  
 ## References for components
