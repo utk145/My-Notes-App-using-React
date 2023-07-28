@@ -63,7 +63,7 @@ Try:
 Once the app is running, you can create, edit, and delete notes. To create a new note, click the "+" button and enter a title and details. To edit a note, click on the note you want to update. To delete a note, click the delete icon next to the "save" button. To search for a specific note, click on the search button and the results will be filtered accordingly.
 
 
-[Do use it](https://utproj-mynotes-react-67y.pages.dev/)
+[Do use it](https://9db12e8b.utproj-mynotes-react.pages.dev/)
 
 
 
